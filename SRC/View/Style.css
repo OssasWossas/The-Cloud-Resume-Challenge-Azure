@@ -1,0 +1,51 @@
+h1 {
+    font-weight: 700;
+    font-size: 700%;
+
+}
+h2{
+    padding-top: 5%;
+    font-size: 200%;
+    font-weight: 600;
+}
+h3{
+    padding-top: 5%;
+    font-size: 200%;
+    font-weight: 500; 
+}
+body {
+    background-color: Canvas;
+    color: CanvasText;
+    color-scheme: light dark;
+  }
+picture{
+    padding-bottom: 5%;
+
+}
+div{
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 3px;
+    background-color: rgb(64, 64, 64, 0.2);
+    padding-top: 2%;
+    padding-bottom: 2%;
+    
+}
+p{
+    padding-left: 2%;
+    padding-right: 2%;
+    text-align: center;
+}
+/* ID's */
+
+/* Classes */
+.list-group-item{
+    background-color: transparent;
+    border: 0px;
+}
+.Cert{
+    max-width: 250px;
+    max-height: 250px;
+    margin-top: 3%;
+    margin-left: 3%;
+}
